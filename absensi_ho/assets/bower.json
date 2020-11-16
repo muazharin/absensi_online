@@ -1,0 +1,13 @@
+{
+  "name": "ace",
+  "version": "1.3.9",
+  "main": "assets/js/ace.min.js",
+  "ignore": [
+    "*.html",
+    "*.txt",
+    "changelog",
+    "docs",
+    "examples",
+    "mustache"
+  ]
+}
