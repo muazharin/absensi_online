@@ -75,7 +75,7 @@
                                                         <div class="profile-info-value">
                                                             <i class="fa fa-map-marker light-orange bigger-110"></i>
                                                             <!-- <span>PT. Mulia Sawit Agro Lestari</span><br> -->
-                                                            <span>JL. Radio Dalam Raya, No. 87 A, RT 005/RW 014 Gandaria Utara, Kebayoran Baru, Jakarta Selatan, DKI Jakarta Raya - 12140</span>
+                                                            <span>DKI Jakarta</span>
                                                         </div>
                                                     </div>
 
